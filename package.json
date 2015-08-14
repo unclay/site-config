@@ -1,0 +1,36 @@
+{
+  "name": "site-config",
+  "version": "1.0.0",
+  "description": "---",
+  "keywords": [],
+  "homepage": "https://github.com/unclay/site-config#readme",
+  "author": "unclary <wcl58981298@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unclay/site-config.git"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    }
+  },
+  "devDependencies": {
+    "spm": "3"
+  },
+  "scripts": {
+    "test": "spm test",
+    "build": "spm build"
+  },
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unclay/site-config/issues"
+  }
+}
