@@ -1,18 +1,9 @@
-# site-config [![spm version](https://moekit.com/badge/site-config)](https://moekit.com/package/site-config)
+# site-config [![spm version](https://spmjs.io/badge/site-config)](https://spmjs.io/package/site-config)
 
 ---
 
 
 
-## Install
+## 说明
 
-```
-$ spm install site-config --save
-```
-
-## Usage
-
-```js
-var siteConfig = require('site-config');
-// use siteConfig
-```
+site-config是unclay个人站点配置模块
